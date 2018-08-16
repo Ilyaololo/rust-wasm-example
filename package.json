@@ -1,0 +1,11 @@
+{
+  "name": "rust-wasm-example",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {},
+  "author": "ilyaololo <ilyaololo96@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
